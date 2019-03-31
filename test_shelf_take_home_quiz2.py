@@ -1,3 +1,4 @@
+# JOANNA VEILLEUX
 """CS330 Spring 2019: Quiz 2 (take home)."""
 
 import unittest
